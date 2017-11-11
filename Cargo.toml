@@ -1,0 +1,9 @@
+[package]
+name = "luffarschack"
+version = "0.1.0"
+authors = ["Tim Bergqvist <boggeb@gmail.com>"]
+
+[dependencies]
+luffar_lib = { path = "../luffar_lib/" }
+piston_window = "0.73.0"
+piston2d-opengl_graphics = "0.49.0"
