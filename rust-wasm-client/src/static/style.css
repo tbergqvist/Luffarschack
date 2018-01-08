@@ -1,0 +1,15 @@
+table {
+  border: 1px solid green;  
+}
+
+tr {
+  white-space: nowrap;
+}
+
+td {
+  border: 1px solid green;
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  padding: 10px;
+}

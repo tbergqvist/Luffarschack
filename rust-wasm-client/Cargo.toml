@@ -1,0 +1,10 @@
+[package]
+authors = ["Tim Bergqvist <boggeb@gmail.com>"]
+name = "luffarschack-wasm"
+version = "0.1.0"
+
+[dependencies]
+stdweb = "0.3.0"
+
+[dependencies.luffar_lib]
+path = "../../luffar_lib/"
